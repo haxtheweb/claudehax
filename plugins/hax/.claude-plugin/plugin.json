@@ -2,13 +2,8 @@
   "name": "hax",
   "version": "0.1.0",
   "description": "Claude Code workflows for operating HAX sites with the HAX CLI.",
-  "author": "HAX / Dave Fusco",
-  "homepage": "https://github.com/haxtheweb/create",
-  "skills": [
-    {
-      "name": "hax",
-      "path": "skills/hax/SKILL.md"
-    }
-  ],
-  "commands": []
+  "author": {
+    "name": "Dave Fusco",
+    "email": "davidjfusco@gmail.com"
+  }
 }
