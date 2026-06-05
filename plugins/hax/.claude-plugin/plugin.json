@@ -1,9 +1,9 @@
 {
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "hax",
-  "version": "0.1.0",
-  "description": "Claude Code workflows for operating HAX sites with the HAX CLI.",
+  "version": "0.2.0",
+  "description": "Claude Code skill for operating HAX sites with the HAX CLI and HAX web components.",
   "author": {
-    "name": "Dave Fusco",
-    "email": "davidjfusco@gmail.com"
+    "name": "Dave Fusco"
   }
 }
