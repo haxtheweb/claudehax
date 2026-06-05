@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claudehax",
+  "description": "HAX Claude Code plugin marketplace",
+  "owner": {
+    "name": "Dave Fusco"
+  },
+  "plugins": [
+    {
+      "name": "hax",
+      "description": "Use HAX CLI commands from Claude Code",
+      "source": "./plugins/hax"
+    }
+  ]
+}
