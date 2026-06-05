@@ -91,6 +91,10 @@ Prefer HAX components over custom HTML whenever a suitable component exists.
 
 ## HAX Component Discovery
 
+Do not rely on `wc-registry.json` being present in the user’s site. Use `docs/hax-elements-reference.md` as the primary component reference. Only inspect project registries if they exist and are readable.
+
+When adding HAX components, first select from `docs/hax-elements-reference.md`. Do not search for `wc-registry.json` unless the current project clearly contains one.
+
 When selecting a component:
 
 1. Check `docs/hax-elements-reference.md`.
