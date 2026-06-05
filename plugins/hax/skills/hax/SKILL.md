@@ -30,6 +30,6 @@ Use them as the primary command reference.
 If the docs are missing or incomplete, discover commands with:
 
 ```bash
-npx hax --help
-npx hax site --help
-npx hax recipe --help
+npx @haxtheweb/create --help
+npx @haxtheweb/create site --help
+npx @haxtheweb/createrecipe --help
