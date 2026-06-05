@@ -1,6 +1,6 @@
 # HAX Elements Reference
 
-Generated on 2026-06-05T22:33:23Z.
+Generated on 2026-06-05T22:48:05Z.
 
 Source: https://github.com/haxtheweb/webcomponents/tree/master/elements
 

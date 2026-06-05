@@ -1,6 +1,6 @@
 # HAX CLI Reference
 
-Generated on 2026-06-05T22:32:40Z.
+Generated on 2026-06-05T22:47:29Z.
 
 Command source:
 
