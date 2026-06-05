@@ -24,6 +24,18 @@ Then use:
 /hax add 3 pages about iguanas
 /hax analyze this site and suggest 20 new pages
 /hax add a multiple choice quiz to this page based on the page content
+
+/hax add a multiple-choice quiz to the most content-heavy page, based only on that page’s content
+
+/hax find a page that would benefit from flash cards and add 5 flash cards using the best HAX web component
+/hax add a quiz to the penn state university page                                                                                                      
+/hax find a youtube video and add it to the ohio state university page   
+
+/hax add an interactive check-for-understanding section to the iguana overview page using HAX web components, not plain HTML
+/hax inspect the available HAX web components and recommend 10 components that would improve this site
+/hax add a video learning section to one page using the appropriate HAX video component
+/hax create a mini lesson page about reptile habitats and include at least two HAX web components from the elements reference
+
 ```
 
 ## Refresh generated docs
