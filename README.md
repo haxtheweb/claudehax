@@ -98,7 +98,7 @@ command.
 Inside Claude Code:
 
 ```text
-/plugin marketplace add djfusco/claudehax
+/plugin marketplace add haxtheweb/claudehax
 ```
 
 Install the plugin:
@@ -218,7 +218,7 @@ If HAX is missing:
 Verify internet access and confirm:
 
 ```text
-/plugin marketplace add djfusco/claudehax
+/plugin marketplace add haxtheweb/claudehax
 ```
 
 is spelled correctly.
